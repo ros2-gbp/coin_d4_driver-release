@@ -1,3 +1,26 @@
+## coin_d4_driver (rolling) - 1.0.1-1
+
+The packages in the `coin_d4_driver` repository were released into the `rolling` distro by running `/usr/bin/bloom-release coin_d4_driver -t rolling -r rolling --edit` on `Mon, 14 Jul 2025 06:37:40 -0000`
+
+The `coin_d4_driver` package was released.
+
+Version of package(s) in repository `coin_d4_driver`:
+
+- upstream repository: https://github.com/ROBOTIS-GIT/coin_d4_driver.git
+- release repository: https://github.com/ros2-gbp/coin_d4_driver-release.git
+- rosdistro version: `1.0.0-1`
+- old version: `1.0.0-1`
+- new version: `1.0.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## coin_d4_driver (rolling) - 1.0.0-1
 
 The packages in the `coin_d4_driver` repository were released into the `rolling` distro by running `/usr/bin/bloom-release coin_d4_driver -t rolling -r rolling --edit` on `Sun, 22 Jun 2025 22:58:34 -0000`
