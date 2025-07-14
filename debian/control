@@ -1,0 +1,12 @@
+Source: ros-rolling-coin-d4-driver
+Section: misc
+Priority: optional
+Maintainer: Pyo <pyo@robotis.com>
+Build-Depends: debhelper (>= 9.0.0), ros-rolling-ament-cmake, ros-rolling-geometry-msgs, ros-rolling-rclcpp, ros-rolling-rclcpp-lifecycle, ros-rolling-sensor-msgs, ros-rolling-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-rolling-coin-d4-driver
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-rolling-geometry-msgs, ros-rolling-rclcpp, ros-rolling-rclcpp-lifecycle, ros-rolling-sensor-msgs, ros-rolling-ros-workspace
+Description: ROS package for LDS-03 (COIN-D4) Lidar
