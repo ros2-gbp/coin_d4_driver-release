@@ -1,9 +1,0 @@
-ros-rolling-coin-d4-driver (1.0.0-1noble) noble; urgency=high
-
-  * Added libraries that can use COIN D4 LIDAR (default handler, ROS NODE handler, LIFECYCLE NODE handler)
-  * Added example code (single lidar node, multi lidar node)
-  * Contributors: Hyeongjun Jeon, Pyo
-
- -- Pyo <pyo@robotis.com>  Mon, 09 Jun 2025 15:00:00 -0000
-
-
