@@ -1,3 +1,26 @@
+## coin_d4_driver (kilted) - 1.0.1-1
+
+The packages in the `coin_d4_driver` repository were released into the `kilted` distro by running `/usr/bin/bloom-release coin_d4_driver -t kilted -r kilted --edit` on `Mon, 14 Jul 2025 11:40:28 -0000`
+
+The `coin_d4_driver` package was released.
+
+Version of package(s) in repository `coin_d4_driver`:
+
+- upstream repository: https://github.com/ROBOTIS-GIT/coin_d4_driver.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## coin_d4_driver (humble) - 1.0.1-1
 
 The packages in the `coin_d4_driver` repository were released into the `humble` distro by running `/usr/bin/bloom-release coin_d4_driver -t humble -r humble --edit` on `Mon, 14 Jul 2025 06:44:15 -0000`
