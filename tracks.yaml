@@ -104,5 +104,4 @@ tracks:
     ros_distro: rolling
     vcs_type: git
     vcs_uri: https://github.com/ROBOTIS-GIT/coin_d4_driver.git
-    version: 1.0.1
-    version_saved: :{auto}
+    version: :{auto}
