@@ -1,1 +1,1 @@
-{"base": "7b370d89d0c0", "parent": "debian/rolling/coin_d4_driver", "previous": "13e8ac38a26d", "trim": "", "trimbase": ""}
+{"base": "b168a4b", "parent": "debian/lyrical/coin_d4_driver", "previous": "8b24d6c", "trim": "", "trimbase": ""}
